@@ -4,6 +4,4 @@
 
 * Stores todo's ever after refresh
 * A CRUD Web App
-```
-npm install
-```
+* Stores todo's in local storage
